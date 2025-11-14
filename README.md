@@ -5,8 +5,8 @@ My name is Jahaira Flores, and I’m a Computer Science major at Arizona State U
 - Chase Rewind: iOS App check it out → [Rewind](https://github.com/Jahaira12/Chase-app-rewind)
 A personal project inspired by Spotify Wrapped, but for banking trends. Visualizes monthly spending, travel history, and personalize insights using Swift, and data visualization techniques.
 
-- Game Development Projects
-- Exploring 2D game mechanics in Unity. Check out my current project → [Flappy Duck](https://github.com/Jahaira12/412FinalProject).
+- Game Development Projects:
+Exploring 2D game mechanics in Unity. Check out my current project → [Flappy Duck](https://github.com/Jahaira12/412FinalProject).
 Learning about physics-based interactions, sprite animation, and event-driven scripting.
 
 🌱 I’m currently learning
