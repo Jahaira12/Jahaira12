@@ -1,6 +1,4 @@
 ## Hi there 👋 I'm Jahaira!
-
-About me: 
 My name is Jahaira Flores, and I’m a Computer Science major at Arizona State University with a passion for Backend Development, Distributed Systems, and AI powered infrastructure. I enjoy building real world applications that blend clean system design, strong engineering principles, and creativity.
 
 🔭 I’m currently working on: 
@@ -14,7 +12,7 @@ My name is Jahaira Flores, and I’m a Computer Science major at Arizona State U
 🌱 I’m currently learning
 - Advanced Backend patterns: strategy patterns, API architecture, event-driven systems
 - Unity & C# for game dev
-- Full-stack development using React Native, Java Spring Boot, and cloud services
-- AI driven app workflows, inspired by my Summer 2025 Full-Stack internship where I built a soft-404 detection service
+- Full stack development using React Native, Java Spring Boot, and cloud services
+- AI driven app workflows, inspired by my Summer 2025 Full Stack internship where I built a soft 404 detection service
 <!--
 
