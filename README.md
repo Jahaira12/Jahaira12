@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 I'm Jahaira!
 
+About me: 
+My name is Jahaira Flores, and I’m a Computer Science major at Arizona State University with a passion for Backend Development, Distributed Systems, and AI powered infrastructure. I enjoy building real world applications that blend clean system design, strong engineering principles, and creativity.
+
+🔭 I’m currently working on: 
+- Chase Rewind: iOS App
+- A personal project inspired by Spotify Wrapped, but for banking trends. Visualizes monthly spending, travel history, and personalize insights using Swift, React Native, and data visualization techniques. Currently designing UI/UX flows and building the analytics pipeline.
+
+- Game Development Projects
+- Exploring 2D game mechanics in Unity. Check out my current project → Flappy Duck
+ (link your repo here). Learning about physics-based interactions, sprite animation, and event-driven scripting.
+
+🌱 I’m currently learning
+- Advanced Backend patterns: strategy patterns, API architecture, event-driven systems
+- Unity & C# for game dev
+- Full-stack development using React Native, Java Spring Boot, and cloud services
+- AI driven app workflows, inspired by my Summer 2025 Full-Stack internship where I built a soft-404 detection service
 <!--
-**Jahaira12/Jahaira12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
