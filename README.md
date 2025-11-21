@@ -1,6 +1,11 @@
 ## Hi there 👋 I'm Jahaira!
 My name is Jahaira Flores, and I’m a Computer Science major at Arizona State University with a passion for Backend Development, Distributed Systems, and AI powered infrastructure. I enjoy building real world applications that blend clean system design, strong engineering principles, and creativity.
 
+✨💻 My projects:
+- RecipeReady
+SQL + JavaFX Recipe App [RecipeReady](https://github.com/Jahaira12/412FinalProject/tree/main)
+Built a JavaFX recipe application with secure login, recipe search, and pantry management. Designed a relational database with optimized SQL queries and structured User, and Recipe.
+
 🔭 I’m currently working on: 
 - Chase Rewind: iOS App check it out → [Rewind](https://github.com/Jahaira12/Chase-app-rewind)
 A personal project inspired by Spotify Wrapped, but for banking trends. Visualizes monthly spending, travel history, and personalize insights using Swift, and data visualization techniques.
